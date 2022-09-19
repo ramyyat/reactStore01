@@ -1,0 +1,13 @@
+.loadingContainer {
+    font-size: 36px;
+    text-align: center;
+}
+
+.allProductsContainer {
+    width: 90%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+    padding: 15px;
+}
